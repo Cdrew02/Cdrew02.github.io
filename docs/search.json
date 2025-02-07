@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Christopher Drew",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1 ```— title: “Christopher Drew” image: links: - label: LinkedIn url: “https://www.linkedin.com/in/chris-drew-ab9748256/” - label: GitHub url: “https://github.com/Cdrew02” - label: Email url: “cdrew02@colostate.edu” output: postcards::jolla —"
   },
   {
     "objectID": "about.html",

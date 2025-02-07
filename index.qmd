@@ -1,11 +1,13 @@
 ---
 title: "Christopher Drew"
+image: 
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/chris-drew-ab9748256/"
+  - label: GitHub
+    url: "https://github.com/Cdrew02"
+  - label: Email
+    url: "cdrew02@colostate.edu"
+output:
+  postcards::jolla
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
