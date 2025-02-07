@@ -1,6 +1,5 @@
 ---
 title: "Christopher Drew"
-image: 
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/chris-drew-ab9748256/"
