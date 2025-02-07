@@ -6,7 +6,8 @@ links:
   - label: GitHub
     url: "https://github.com/Cdrew02"
   - label: Email
-    url: "cdrew02@colostate.edu"
+    url: "mailto:cdrew02@colostate.edu"
 output:
   postcards::jolla
 ---
+
