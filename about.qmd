@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-About this site
+Hello! My name is Chris, and I am an Undergrad Student at CSU studying Ecosystem Science and Sustainability.
 
-```{r}
-1 + 1
+```{}
 ```

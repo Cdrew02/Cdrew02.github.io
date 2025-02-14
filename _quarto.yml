@@ -1,13 +1,19 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: "Cdrew02.github.io"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: Resume.qmd
+        text: "Resume"
+      - href: Projects.qmd
+        text: "Projects"
 
 format:
   html:
@@ -16,5 +22,7 @@ format:
     toc: true
 
 editor: visual
+
+
 
 

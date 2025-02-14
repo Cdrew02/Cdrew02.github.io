@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Christopher Drew",
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1 ```— title: “Christopher Drew” image: links: - label: LinkedIn url: “https://www.linkedin.com/in/chris-drew-ab9748256/” - label: GitHub url: “https://github.com/Cdrew02” - label: Email url: “cdrew02@colostate.edu” output: postcards::jolla —"
+    "text": "Alternatively, you can download the resume:\nDownload Resume"
+  },
+  {
+    "objectID": "Resume.html#view-my-resume",
+    "href": "Resume.html#view-my-resume",
+    "title": "Resume",
+    "section": "",
+    "text": "Alternatively, you can download the resume:\nDownload Resume"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Chris, and I am an Undergrad Student at CSU studying Ecosystem Science and Sustainability."
   }
 ]
